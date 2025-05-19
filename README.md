@@ -51,5 +51,4 @@ It only modifies the visual DOM to hide irrelevant sections.
 
 ---
 
-Made with ☕ and patience  
 Licensed under the **Lain The Alien License** (see `LICENSE`)
