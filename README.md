@@ -1,6 +1,6 @@
 # HideNonFavoriteGIFs (BetterDiscord Plugin)
 
-The plugin is made by Lain The Alien (Vtuber). Please support me by following my YouTube channel and gifting me via my Ko-Fi (my many services are at your disposal)!
+The plugin is made by Lain The Alien (Vtuber). Please support me by following my YouTube channel and gifting me via my Ko-Fi!
 
 Youtube:
 https://www.youtube.com/@LainAzanael
