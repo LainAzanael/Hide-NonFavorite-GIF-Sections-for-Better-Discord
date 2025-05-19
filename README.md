@@ -27,11 +27,23 @@ Originally based on a Tampermonkey script tested and confirmed working (as of 19
 
 ## 📦 Installation
 
-1. Download the file: `HideNonFavoriteGIFs.plugin.js`
+1. Download the file: `HideNonFavoriteGIFs.plugin.js` from the zip in the releases section
 2. Open Discord and go to `User Settings → BetterDiscord → Plugins`
 3. Click **“Open Plugins Folder”**
 4. Move the plugin file into that folder
 5. Enable the plugin from the BetterDiscord UI
+
+## 🧪 Installation (for Browser via Tampermonkey)
+
+
+1. Download the file: "! tamper monkey code for browser discord.txt" from the same zip as the app plugin in the releases section
+2. Make sure you have the Tampermonkey extension installed in your browser:
+3. Open Tampermonkey Dashboard
+4. Click “+ Create a new script”
+5. Delete everything in the editor and paste the contents of your file
+6. Click File → Save or press Ctrl + S
+7. Visit https://discord.com/app
+8. Open the GIF picker — only Favorites should now appear!
 
 ## 🔒 Safe to Use
 This plugin does **not collect or transmit** any user data.
