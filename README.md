@@ -1,8 +1,23 @@
 # HideNonFavoriteGIFs (BetterDiscord Plugin)
 
-This BetterDiscord plugin hides all sections in the Discord GIF picker except for **Favorites**.
+The plugin is made by Lain The Alien (Vtuber). Please support me by following my YouTube channel and gifting me via my Ko-Fi (my many services are at your disposal)!
 
-Originally based on a Tampermonkey script tested and confirmed working, this plugin adapts the same logic for use in the Discord desktop app via BetterDiscord.
+Youtube:
+https://www.youtube.com/@LainAzanael
+
+Ko-Fi:
+https://ko-fi.com/lainthealien
+
+For any problems, contact me via my email:
+lainazanael@gmail.com
+
+
+💙💙💙💙💙
+
+
+This BetterDiscord plugin hides all sections in the Discord GIF picker except for **Favorites**. I was tired of seeing ugly or downright disgusting GIFs every time I opened the section, and I also have necrophobia, so I didn't want any random zombie jump scares.
+
+Originally based on a Tampermonkey script tested and confirmed working (as of 19.05.2025), this plugin adapts the same logic for use in the Discord desktop app via BetterDiscord.
 
 ## ✅ Features
 - Hides **Trending**, **Reactions**, **Anime**, and other categories
